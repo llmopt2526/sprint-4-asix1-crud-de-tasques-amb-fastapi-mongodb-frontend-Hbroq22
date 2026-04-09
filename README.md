@@ -6,6 +6,7 @@ A diferència d’altres projectes més complexos, en aquest cas **treballareu a
 El projecte ha de mantenir una **estructura com aquesta**:
 
 ```
+
 project/
 ├── README.md
 ├── backend/                # FastAPI + MongoDB
